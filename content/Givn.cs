@@ -1,4 +1,6 @@
-﻿namespace Givn
+﻿using System;
+
+namespace Givn
 {
     public static class Giv
     {
