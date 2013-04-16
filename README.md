@@ -3,6 +3,11 @@ Giv.n
 
 Giv.n is a BDD framework with all the extraneous parts removed. It supports the given, when, then style of scenario definition, including reuse and parameterization of steps ala FIT and fitness (but without the wiki).
 
+Installation
+------------
+
+`PM> Install-Package Giv.n`
+
 Example
 -------
 
