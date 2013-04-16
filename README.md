@@ -9,6 +9,8 @@ Example
 (This example uses NUnit)
 
 ```c#
+using Givn;
+
 [Test]
 public WhenIBakeACake() {
     Giv.n(IHaveFlour)
