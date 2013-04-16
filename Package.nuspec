@@ -4,7 +4,7 @@
     <id>Giv.n</id>
     <version>1.0.0</version>
     <authors>Liam McLennan, Nicholas Blumhardt</authors>
-    <owners>Liam McLennan, Nicholas Blumhardt</owners>
+    <owners>liammclennan, nblumhardt</owners>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
     <projectUrl>https://github.com/liammclennan/giv.n</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
