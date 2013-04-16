@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Giv.n</id>
+    <version>1.0.0</version>
+    <authors>Liam McLennan, Nicholas Blumhardt</authors>
+    <owners>Liam McLennan, Nicholas Blumhardt</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple BDD</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>Testing BDD</tags>
+  </metadata>
+</package>
