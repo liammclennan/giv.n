@@ -6,7 +6,7 @@
     <authors>Liam McLennan, Nicholas Blumhardt</authors>
     <owners>Liam McLennan, Nicholas Blumhardt</owners>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <projectUrl>https://github.com/liammclennan/giv.n</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Simple BDD</description>
     <releaseNotes>First release.</releaseNotes>
